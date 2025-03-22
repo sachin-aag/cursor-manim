@@ -25,6 +25,13 @@ venv/
 env/
 ENV/
 .env
+.venv/
+pythonenv*
+.python-version
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # IDE
 .idea/
@@ -33,7 +40,14 @@ ENV/
 *.swo
 .DS_Store
 
-
+# Manim
+media/
+*.mp4
+*.png
+*.jpg
+*.gif
+*.svg
+*.log
 
 # Jupyter Notebook
 .ipynb_checkpoints
