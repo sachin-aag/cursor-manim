@@ -19,7 +19,9 @@ The visualization helps understand how RAG enhances Large Language Models (LLMs)
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9J_VWE08yCo" title="RAG Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![RAG Visualization](https://img.youtube.com/vi/9J_VWE08yCo/maxresdefault.jpg)](https://youtu.be/9J_VWE08yCo)
+
+[▶️ Watch Full Video](https://youtu.be/9J_VWE08yCo)
 
 ## Requirements
 
