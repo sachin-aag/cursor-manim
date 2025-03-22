@@ -1,8 +1,6 @@
-# RAG Visualization
 
-A Manim-based visualization explaining the Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex concepts.
 
-## About This Project
+# About This Project
 
 This project demonstrates an efficient workflow for creating research paper and technical concept visualizations using [Cursor](https://cursor.sh) and [Manim](https://www.manim.community/). While one-shot prompt generation with AI assistants can be challenging, this project shows how iterative refinement with Cursor can produce high-quality technical visualizations.
 
